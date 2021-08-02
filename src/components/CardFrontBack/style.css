@@ -6,7 +6,8 @@
     position: relative;
     transform-style: preserve-3d;
 
-    transition: transform .75s cubic-bezier(0.42, 0, 1, 1.36);
+    cursor: pointer;
+    transition: transform .65s cubic-bezier(0.42, 0, 0.33, 1.74);
 }
 
 .card-front-back.-active {
